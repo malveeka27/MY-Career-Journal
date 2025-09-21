@@ -137,7 +137,7 @@ elif sidebar_option == "Career Suggestor":
 
     # This is an actual button, not markdown
     if st.button("Take Free Aptitude Test", key="aptitude_test_button"):
-        webbrowser.open_new_tab("https://www.123test.com/aptitude-test/")
+        webbrowser.open_new_tab("https://aptitude-test.com/")
     # SUGGEST CAREER BUTTON
     if st.button("Suggest Careers", key="suggest_careers"):
         suggestions = suggest_career_ai(skills_input, aptitude_score)
@@ -204,6 +204,7 @@ else:
         career_role = st.text_input("Enter your dream career (e.g., Quant Research Analyst)", key="career_info_role")
         if st.button("Get Career Info", key="get_career_info"):
             fetch_career_information(career_role)
+
 
 
 
