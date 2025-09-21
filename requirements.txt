@@ -1,0 +1,8 @@
+#LIST OF REQUIRED LIBRAIES
+streamlit
+google-cloud-storage
+google-cloud-firestore
+google-cloud-aiplatform
+google-cloud-documentai
+PyPDF2
+python-docx
