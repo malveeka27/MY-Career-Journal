@@ -82,7 +82,7 @@ st.markdown(
 
 
 
-# SETTING RESUME PARSER AS DEFAULT PAGE
+# FOR RESUME
 if "resume_skills" not in st.session_state:
     st.session_state["resume_skills"] = []
 
@@ -204,6 +204,7 @@ else:
         career_role = st.text_input("Enter your dream career (e.g., Quant Research Analyst)", key="career_info_role")
         if st.button("Get Career Info", key="get_career_info"):
             fetch_career_information(career_role)
+
 
 
 
