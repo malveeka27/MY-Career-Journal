@@ -41,14 +41,7 @@ User-Centered Design: Feels like a mentor, not just a tool.
 Future Plans
 Chat Assistant: Real-time doubt clearance while learning new skills.
 
- How to Run Locally
-
-Clone this repo:
-git clone https://github.com/your-repo/career-journal.git
-cd career-journal
-
-Install dependencies:
-pip install -r requirements.txt
+git clone: https://github.com/malveeka27/MY-Career-Journal.git
 
 
 
