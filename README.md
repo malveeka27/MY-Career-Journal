@@ -1,8 +1,3 @@
-# MY-Career-Journal
-AI powered career and skill development Tool
-# MY-Career-Journal
-AI powered career and skill development Tool
-
 My Career Journal
 
 Your AI-powered career companion - guiding you step by step from career discovery to skill building, interview preparation, and tracking your growth.
